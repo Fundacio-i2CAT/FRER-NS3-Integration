@@ -1,4 +1,4 @@
-![i2CAT Logo](https://gitlab.i2cat.net/suneel.kumar/frer-ns3-integration/-/raw/main/Fundacio-Privada-I2CAT.png)
+![i2CAT Logo](Fundacio-Privada-I2CAT.png)
 
 # Project Status: 
 Complete
