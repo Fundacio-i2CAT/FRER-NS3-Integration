@@ -109,6 +109,7 @@ channel occupancy: Captures channel utilization in NS-3
 
 # Technical description 
 ![system architecture](Copy of FRER.jpg)
+
 This project integrates multiple components to evaluate the **IEEE 802.1CB Frame Replication and Elimination for Reliability (FRER)** standard. It combines:
 
 - **XDP/BPF-based FRER implementation** by Ericsson Research Lab (available online)
