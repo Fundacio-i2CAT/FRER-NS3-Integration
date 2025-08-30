@@ -109,6 +109,7 @@ channel occupancy: Captures channel utilization in NS-3
 
 # Technical description 
 ![system architecture](FRER_Arch.jpg)
+*Figure 1: System architecture for FRER testbed, Different colour schemes show different components*
 
 This project integrates multiple components to evaluate the **IEEE 802.1CB Frame Replication and Elimination for Reliability (FRER)** standard. It combines:
 
